@@ -1,5 +1,10 @@
 # calculator-python
-this is a calculator that i developed using python and tkinter library here's the code of the same
+this is a calculator that i developed using python and tkinter library here's the code of the same.
+
+
+
+
+
 from tkinter import *
 
 first_number=second_number=operator=None
